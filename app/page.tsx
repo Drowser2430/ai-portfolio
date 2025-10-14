@@ -105,7 +105,7 @@ export default function Home() {
                 <span className="text-sm">Email</span>
               </a>
               <a
-                href="/DariusRowser_Resume_Reviewer3.pdf"
+                href="/DariusRowser_Resume.pdf"
                 download
                 className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg transition-colors"
               >
